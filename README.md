@@ -6,11 +6,10 @@
 3. [Problem Statement](#problem-statement)  
 4. [Objectives](#objectives)  
 5. [Tool Used (Python)](#tool-used-python)  
-6. [Methodology](#methodology)  
-7. [Limitation](#limitation)  
-8. [Insights](#insights)  
-9. [Recommendations](#recommendations)  
-10. [Conclusion](#conclusion)  
+6. [Methodology](#methodology)   
+7. [Insights](#insights)  
+8. [Recommendations](#recommendations)  
+9. [Conclusion](#conclusion)  
 
 ---
 
@@ -48,15 +47,8 @@ Python programming language was utilized for the data analysis, and visualizatio
 1. **Data Acquisition:** Collected daily operational and reservoir data for Well No. 807 including oil, gas, water volumes, water cut, reservoir pressure, and dynamic level.  
 2. **Data Cleaning:** Handled missing values, corrected data inconsistencies, and prepared the dataset for analysis.  
 3. **Exploratory Data Analysis (EDA):** Conducted statistical and graphical analysis to identify key relationships among parameters.  
-4. **Feature Engineering:** Created derived features to enhance model performance and capture production trends.  
-5. **Model Development:** Applied regression and machine learning models to predict oil production based on reservoir and operational parameters.  
-6. **Model Evaluation:** Assessed model accuracy using R², RMSE, and MAE metrics to determine reliability.  
-7. **Visualization:** Generated trend plots and correlation heatmaps for interpretability and insight communication.  
-
----
-
-## Limitation
-The study is limited by the availability and quality of field data. Certain reservoir parameters such as permeability, porosity, and bottom-hole pressure were not available, which may influence the accuracy of the predictive model. Additionally, the analysis focuses on a single well, limiting generalization to field-wide applications.
+4. **Feature Engineering:** Created derived features to enhance model performance and capture production trends.   
+5. **Visualization:** Generated trend plots and correlation heatmaps for interpretability and insight communication.  
 
 ---
 
